@@ -10,4 +10,5 @@ smtp
 -----------
 smtpjs - server for sending emails in client-side without server-side configuration
 
-https://smtpjs.com/v3/smtp.js  
+https://smtpjs.com/v3/smtp.js 
+

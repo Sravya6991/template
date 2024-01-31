@@ -13,10 +13,10 @@ function sendEmail(e) {
     }
     Email.send({
         Host: "smtp.elasticemail.com",
-        Username: "freelancesravya@gmail.com",
-        Password: "37238646B52B46BDD56870AF23BBE6E380DC",
-        To: "freelancesravya@gmail.com",
-        From: "freelancesravya@gmail.com",
+        Username: "sender_emil",
+        Password: "password",
+        To: "reciver_emal",
+        From: "sender_email",
         Subject: myForm["mail-subject"],
         Body: `Client-name: ${myForm["client-name"]} <br/> Client-email: ${myForm["client-email"]} <br/>
         Subject: ${myForm["mail-subject"]} <br/> Body: ${myForm["mail-body"]} <br/>`
