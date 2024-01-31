@@ -1,0 +1,13 @@
+image carousel
+1. Photo by <a href="https://unsplash.com/@dariobroe?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dario Brönnimann</a> on <a href="https://unsplash.com/photos/purple-and-black-galaxy-sky-Kq4HnWQiSDk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+2. Photo by <a href="https://unsplash.com/@gardnerjorge?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jorge Gardner</a> on <a href="https://unsplash.com/photos/full-moon-over-the-mountain-96HGASDzrW8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+3. Photo by <a href="https://unsplash.com/@tengyart?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tengyart</a> on <a href="https://unsplash.com/photos/2-trading-cards-on-red-and-white-textile-VgijAV-e97Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+sec-3
+1. Photo by <a href="https://unsplash.com/@sixteenmilesout?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sixteen Miles Out</a> on <a href="https://unsplash.com/photos/opened-book-PpJOb2ByPBY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+smtp
+-----------
+smtpjs - server for sending emails in client-side without server-side configuration
+
+https://smtpjs.com/v3/smtp.js  
